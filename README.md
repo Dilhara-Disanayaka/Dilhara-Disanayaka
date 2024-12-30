@@ -1,6 +1,6 @@
- 👋 Hi there, I’m Dilhara-Disanayaka
- 🌱  I’m currently studying in the Department of Computer Science and Engineering at the University of Moratuwa
- 📫 Email me at dilharamdissanayaka@gmail.com
+-👋 Hi there, I’m Dilhara-Disanayaka
+-🌱  I’m currently studying in the Department of Computer Science and Engineering at the University of Moratuwa
+-📫 Email me at dilharamdissanayaka@gmail.com
 
 
 <!---
