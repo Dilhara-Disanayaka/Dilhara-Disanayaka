@@ -1,20 +1,51 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhara-Disanayaka&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&border_color=5B2C6F&title_color=7c3aed&text_color=FFF&icon_color=00D9FF&langs_count=8"/>
 <div align="center">
-
-<!-- Animated Header with Gradient Text -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dilhara%20Dissanayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Explorer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=51"/>
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12,14,30&height=300&section=header&text=Dilhara%20Dissanayake&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engineer%20|%20Developer%20|%20ProblemSolver&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 
-- 🎓 I'm currently studying **Computer Science and Engineering University of Moratuwa**.
-- 💻 I love building things with code and solving real-world problems.
-- 🌱 Currently exploring: `Full-stack Development`, `AI/ML`, `Cloud`, `Devops` and `Databases`.
-- 📫 How to reach me: <p> <a href="mailto:dilhara.22@cse.mrt.ac.lk"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/dilhara-dissanayaka-a78074311"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
----
+<br>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/dilhara-dissanayaka-a78074311]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/profile/220131A_CSE22"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.facebook.com/dilhara.dissanayaka.29573/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-### 💼 Skills & Tools
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<table>
+  <tr>
+    <td>
+      <h2>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving Hand">
+        <span>About me</span>
+      </h2>
+      <ul>
+        <li>🎓 <b>Computer Science & Engineering Undergraduate</b> from Sri Lanka</li>
+        <li>💻 I love building things with code and solving real-world problems.</li>
+        <li>🚀 <b>Problem Solver:</b> Finding elegant solutions to complex challenges</li>
+        <li>🌱 Exploring <b>Web Development, Algorithms, and Digital Design</b></li>
+      </ul>
+    </td>
+    <td>
+      <div align="center">
+        <!-- New 3D Developer Illustration -->
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/developer.gif" alt="Developer at Desk" height="200">
+        <div style="margin-top: 20px;">
+          <!-- New Tech-stack/Coding Animation -->
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzZueW5pZnd6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="150" style="border-radius: 10px;" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- New Neon Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa2cd-79d7-4e2d-b04b-0176317720b4.gif" width="100%" height="20px" />
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+💼 Skills & Tools
 
 #### 🧠 Languages
 <p>
@@ -75,7 +106,7 @@
 </p>
 -->
 
----
+
 
 <!--
 <div align="center">
@@ -109,10 +140,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash,vim&theme=dark&perline=7" />
 
 </div> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+📊 GitHub Analytics Dashboard
 
-## 📊 **GitHub Analytics Dashboard**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dilhara-Disanayaka&custom_title=Shanil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00D9FF&point=7c3aed&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dilhara-Disanayaka&custom_title=Dilhara's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00D9FF&point=7c3aed&area=true&hide_border=true"/>
 
 <table>
   <tr>
@@ -125,11 +156,12 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhara-Disanayaka&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&border_color=5B2C6F&title_color=7c3aed&text_color=FFF&icon_color=00D9FF&langs_count=8"/>
+<div align="center">
+
 
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <!-- GitHub Trophies -->
 <div align="center">
@@ -140,9 +172,9 @@
 
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-### 🌐 Let's Connect!
+🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dilhara-dissanayaka-a78074311">
@@ -153,7 +185,7 @@
   </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <!-- Daily Quote -->
 <div align="center">
 
